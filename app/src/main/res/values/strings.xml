@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMactivity</string>
+    <string name="title_activity_about_screens">AboutScreens</string>
+</resources>
